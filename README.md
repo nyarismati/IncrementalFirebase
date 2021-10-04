@@ -1,3 +1,4 @@
+# Firebase yang digunakan V.8.3.0
 # Incremental game with Firebase
 
 Game yang bertujuan untuk mengumpulkan gold sebanyak-banyaknya
