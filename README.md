@@ -11,5 +11,3 @@ Branches dibagi menjadi dua. Pada branches local, ditemukan incremental game yan
 
 ## Authors
 Muhammad Adam (Nyarismati)
-
-ID Agate: 314
